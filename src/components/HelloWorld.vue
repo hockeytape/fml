@@ -12,6 +12,7 @@
       <h1 class="text-h3 font-weight-bold custom-font makeSmaller">HOCKEYTAPE</h1>
 
       <div class="py-3" />
+      <div class="py-3" />
 
       <v-row class="d-flex align-center justify-center">
         <v-col cols="auto">
