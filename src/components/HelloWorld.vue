@@ -13,6 +13,7 @@
 
       <div class="py-3" />
       <div class="py-3" />
+      <div class="py-3" />
 
       <v-row class="d-flex align-center justify-center">
         <v-col cols="auto">
